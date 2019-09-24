@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293880079295",
+    "firebase_url": "https://rmakviz.firebaseio.com",
+    "project_id": "rmakviz",
+    "storage_bucket": "rmakviz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293880079295:android:58f968565c3d6a25c6b70a",
+        "android_client_info": {
+          "package_name": "com.RMA.kviz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293880079295-qogmoa87tm8keg3sudu6bvd0bok5i8j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.RMA.kviz",
+            "certificate_hash": "d7293ac86fe14eddf62be7aecff3955b04d14938"
+          }
+        },
+        {
+          "client_id": "293880079295-bnorqpna5ioou0edfqrmloobqrse88lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-hsDY6SQY5qHrU8ED9dqa6ulKG-n8lUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293880079295-bnorqpna5ioou0edfqrmloobqrse88lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
